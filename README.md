@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hey, I'm David Poslušný. :wave:</h2>
 
-<!--
-**itsDaiton/itsDaiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> ℹ️ &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🎓 &nbsp; Studying Applied Informatics at Prague University of Economics and Business.
+- ⚙ &nbsp; Focused on learning and exploring frontend technologies and development.
+- 🎮 &nbsp; I play games and watch TV shows in my free time.
+- 🎨 &nbsp; I do cycling, skiing and working out as hobbies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Experiences</h3>
+
+- 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) 
+- 🌐 &nbsp; HTML | XML | CSS | JavaScript | Bootstrap | jQuery | React.js 
+- 🛢 &nbsp; MySQL | PostgreSQL | MariaDB
+- ⚙️ &nbsp; Git | GitHub | Markdown
+- 🔧 &nbsp; IntelliJ IDEA | Visual Studio Code
+- 📐 &nbsp; Postman | Figma | PuTTY
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsDaiton&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDaiton&theme=buefy&layout=compact" />
+</a>
+
+<br/>

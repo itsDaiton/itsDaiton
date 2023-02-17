@@ -10,14 +10,14 @@
 <h3> 🛠 &nbsp;Tech Experiences</h3>
 
 - 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) 
-- 🌐 &nbsp; HTML | XML | CSS | JavaScript | Bootstrap | jQuery | React.js 
+- 🌐 &nbsp; HTML | XML | CSS | JavaScript | Bootstrap | jQuery | React.js | React Native
 - 🛢 &nbsp; MySQL | PostgreSQL | MariaDB
 - ⚙️ &nbsp; Git | GitHub | Markdown
 - 🔧 &nbsp; IntelliJ IDEA | Visual Studio Code
-- 📐 &nbsp; Postman | Figma | PuTTY
+- 📐 &nbsp; Postman | Figma
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/itsDaiton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsDaiton&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDaiton&theme=buefy&layout=compact" />
 </a>

@@ -10,7 +10,8 @@
 <h3> 🛠 &nbsp;Tech Experiences</h3>
 
 - 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) 
-- 🌐 &nbsp; HTML | XML | CSS | JavaScript | Bootstrap | jQuery | React.js | React Native
+- 🌐 &nbsp; HTML | CSS | JavaScript | XML
+- 📋 &nbsp; React.js | React Native | Redux | Bootstrap | jQuery
 - 🛢 &nbsp; MySQL | PostgreSQL | MariaDB
 - ⚙️ &nbsp; Git | GitHub | Markdown
 - 🔧 &nbsp; IntelliJ IDEA | Visual Studio Code

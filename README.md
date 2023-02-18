@@ -3,7 +3,7 @@
 <h3> ℹ️ &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Applied Informatics at Prague University of Economics and Business.
-- ⚙ &nbsp; Focused on learning and exploring frontend technologies and development.
+- ⚙ &nbsp; Focused on learning and exploring frontend technologies and development (mainly React).
 - 🎮 &nbsp; I play games, watch TV shows and code in my free time.
 - 🎨 &nbsp; I do cycling, skiing and working out as hobbies.
 

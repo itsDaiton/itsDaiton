@@ -11,7 +11,8 @@
 
 - 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) 
 - 🌐 &nbsp; HTML | CSS | JavaScript | XML
-- 📋 &nbsp; React.js | React Native | Redux | Bootstrap | Tailwind CSS
+- 📚 &nbsp; React.js | React Native | Next.js | Redux
+- 🎨 &nbsp; Bootstrap | Tailwind CSS | Material UI | Framer Motion
 - 🛢 &nbsp; MySQL | PostgreSQL | MariaDB
 - ⚙️ &nbsp; Git | GitHub | Markdown
 - 🔧 &nbsp; IntelliJ IDEA | Visual Studio Code

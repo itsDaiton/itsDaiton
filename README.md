@@ -13,7 +13,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | XML
 - 📚 &nbsp; React.js | React Native | Next.js | Redux
 - 🎨 &nbsp; Bootstrap | Tailwind CSS | Material UI | Framer Motion
-- 🛢 &nbsp; MySQL | PostgreSQL | MariaDB
+- 🛢 &nbsp; MySQL | PostgreSQL | MariaDB | Firebase
 - ⚙️ &nbsp; Git | GitHub | Markdown
 - 🔧 &nbsp; IntelliJ IDEA | Visual Studio Code
 - 📐 &nbsp; Postman | Figma

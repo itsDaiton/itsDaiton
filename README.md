@@ -9,8 +9,8 @@
 
 <h3> 🛠 &nbsp;Tech Experiences</h3>
 
-- 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) 
-- 🌐 &nbsp; HTML | CSS | JavaScript | XML
+- 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) | XML
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 📚 &nbsp; React.js | React Native | Next.js | Redux
 - 🎨 &nbsp; Bootstrap | Tailwind CSS | Material UI | Framer Motion
 - 🛢 &nbsp; MySQL | PostgreSQL | MariaDB | Firebase
@@ -19,7 +19,7 @@
 - 📐 &nbsp; Postman | Figma
 <br/>
 
-ℹ️ [**Check out my new portfolio!**](https://davidposlusny.netlify.app/) ℹ️
+ℹ️ [**Check out my portfolio!**](https://davidposlusny.netlify.app/) ℹ️
 
 <a href="https://github.com/itsDaiton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsDaiton&theme=buefy&show_icons=true" />

@@ -2,10 +2,11 @@
 
 <h3> ℹ️ &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Applied Informatics at Prague University of Economics and Business.
-- ⚙ &nbsp; Focused on learning and exploring frontend technologies and development (mainly React).
+- 🎓 &nbsp; Bachelor's degree in Software Engineering.
+- 📚 &nbsp; Studying Master's degree in Data Science.
+- ⚙ &nbsp; Interested in exploring areas of web development and data science.
 - 🎮 &nbsp; I play games, watch TV shows and code in my free time.
-- 🎨 &nbsp; I do cycling, skiing and working out as hobbies.
+- 🎨 &nbsp; I also enjoy cycling, skiing and working out.
 
 <h3> 🛠 &nbsp;Tech Experiences</h3>
 
@@ -15,7 +16,6 @@
 - 🎨 &nbsp; Bootstrap | Tailwind CSS | Material UI | Framer Motion
 - 🛢 &nbsp; MySQL | PostgreSQL | MariaDB | Firebase
 - ⚙️ &nbsp; Git | GitHub | Markdown
-- 🔧 &nbsp; IntelliJ IDEA | Visual Studio Code
 - 📐 &nbsp; Postman | Figma
 <br/>
 

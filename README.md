@@ -19,7 +19,7 @@
 - 📐 &nbsp; Postman | Figma
 <br/>
 
-ℹ️ [**Check out my portfolio!**](https://davidposlusny.netlify.app/) ℹ️
+ℹ️ [**Check out my portfolio!**]([https://davidposlusny.netlify.app/](https://davidposlusny.onrender.com/)) ℹ️
 
 <a href="https://github.com/itsDaiton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsDaiton&theme=buefy&show_icons=true" />

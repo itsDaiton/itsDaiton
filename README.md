@@ -4,7 +4,8 @@
 
 - 🎓 &nbsp; Bachelor's degree in Software Engineering.
 - 📚 &nbsp; Studying Master's degree in Data Science.
-- ⚙ &nbsp; Interested in exploring areas of web development and data science.
+- ⚙ &nbsp; Interested in exploring areas of Data Science and mainly Deep Learning
+- 📝 &nbsp; Currently researching for my master's thesis concerning state-of-the-art image classification models.
 - 🎮 &nbsp; I play games, watch TV shows and code in my free time.
 - 🎨 &nbsp; I also enjoy cycling, skiing and working out.
 

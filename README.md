@@ -7,19 +7,6 @@
 - ⚙ &nbsp; Interested in exploring areas of Data Science and mainly Deep Learning
 - 📝 &nbsp; Currently researching for my master's thesis concerning Transformers in Computer Vision.
 
-<h3> 🛠 &nbsp;Tech Experiences</h3>
-
-- 💻 &nbsp; Java | Spring Boot | C# | PHP | Python | R (Statistics) | XML
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
-- 📚 &nbsp; React.js | React Native | Next.js | Redux
-- 🎨 &nbsp; Bootstrap | Tailwind CSS | Material UI | Framer Motion
-- 🛢 &nbsp; MySQL | PostgreSQL | MariaDB | Firebase
-- ⚙️ &nbsp; Git | GitHub | Markdown
-- 📐 &nbsp; Postman | Figma
-<br/>
-
-
-
 <p align="center">
   <a href="https://davidposlusny.onrender.com/">
       <b>ℹCheck out my portfolio!ℹ</b>

@@ -5,11 +5,11 @@
 - 🎓 &nbsp; Bachelor's degree in Software Engineering.
 - 📚 &nbsp; Studying Master's degree in Data Science.
 - ⚙ &nbsp; Interested in exploring areas of Data Science and mainly Deep Learning
-- 📝 &nbsp; Currently researching for my master's thesis concerning Transformers in Computer Vision.
+- 📝 &nbsp; Currently working on my thesis titled [***Exploration and Comparison of Transformers for Image Classification***](https://github.com/itsDaiton/masters-thesis).
 
 <p align="center">
   <a href="https://davidposlusny.onrender.com/">
-      <b>ℹCheck out my portfolio!ℹ</b>
+      <b>Check out my portfolio!</b>
   </a>
 </p>
 

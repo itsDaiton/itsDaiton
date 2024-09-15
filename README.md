@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Bachelor's degree in Software Engineering.
 - 📚 &nbsp; Studying Master's degree in Data Science.
-- ⚙ &nbsp; Interested in exploring areas of Data Science and mainly Deep Learning
+- ⚙ &nbsp; Interested in exploring areas of Data Science and mainly Deep Learning.
 - 📝 &nbsp; Currently working on my thesis titled [***Exploration and Comparison of Transformers for Image Classification***](https://github.com/itsDaiton/masters-thesis).
 
 <p align="center">

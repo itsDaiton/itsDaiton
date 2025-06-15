@@ -11,7 +11,8 @@
 <h3>🎓 &nbsp;Master's thesis</h3>  
 
 - **Exploration and Comparison of Transformers for Image Classification**
-- **http://dx.doi.org/10.13140/RG.2.2.28393.81769**
+- Paper: **http://dx.doi.org/10.13140/RG.2.2.28393.81769**
+- Repository: **https://github.com/itsDaiton/masters-thesis**
 
 <h3>🗂️ &nbsp;Portfolio</h3>
 

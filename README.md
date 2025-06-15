@@ -15,6 +15,5 @@
 
 <h3>📁 &nbsp;Other</h3>
 
-- <p align="left">
-  💼 &nbsp;Portfolio: https://davidposlusny.onrender.com/
-</p>
+- 💼 &nbsp;Portfolio: **https://davidposlusny.onrender.com/**
+

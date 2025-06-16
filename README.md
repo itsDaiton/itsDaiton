@@ -2,8 +2,8 @@
 
 <h3> ℹ️ &nbsp;About Me </h3>
 
-- 🎓 &nbsp;Bachelor's degree in Software Engineering.
-- 📚 &nbsp;Master's degree in Data Science.
+- 🎓 &nbsp;Bachelor's degree in Applied Informatics.
+- 📚 &nbsp;Master's degree in Knowledge and Web Technologies.
 - ⚙ &nbsp;Exploring the areas of Machine Learning, Data Science, and Deep Learning.
 - 🚀 &nbsp;Mainly focused on researching and training Transformers and LLMs.
 - 📝 &nbsp;Master's thesis titled **Exploration and Comparison of Transformers for Image Classification**

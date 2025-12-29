@@ -4,8 +4,8 @@
 
 - 🎓 &nbsp;Bachelor's degree in Applied Informatics.
 - 📚 &nbsp;Master's degree in Knowledge and Web Technologies.
-- ⚙ &nbsp;Exploring the areas of Machine Learning, Data Science, and Deep Learning.
-- 🚀 &nbsp;Mainly focused on researching and training Transformers and LLMs.
+- ⚙ &nbsp; AI Engineer focusing on LLMs, agents and backend integration.
+- 🚀 &nbsp;Exploring the areas of Machine Learning, Data Science, and Deep Learning.
 - 📝 &nbsp;Master's thesis titled **Exploration and Comparison of Transformers for Image Classification**
 
 <h3>🎓 &nbsp;Exploration and Comparison of Transformers for Image Classification </h3>
@@ -15,5 +15,5 @@
 
 <h3>📁 &nbsp;Other</h3>
 
-- 💼 &nbsp;Portfolio: **https://davidposlusny.onrender.com/**
+- 💼 &nbsp;Portfolio: **https://davidposlusny.cz/**
 

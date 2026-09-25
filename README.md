@@ -1,5 +1,3 @@
-## David Poslušný
-
 AI Engineer building production AI systems and the backend infrastructure behind them.
 
 ```yaml

@@ -1,19 +1,13 @@
-<h2> Hey, I'm David Poslušný. :wave:</h2>
+## David Poslušný
 
-<h3> ℹ️ &nbsp;About Me </h3>
+AI Engineer building production AI systems and the backend infrastructure behind them.
 
-- 🎓 &nbsp;Bachelor's degree in Applied Informatics.
-- 📚 &nbsp;Master's degree in Knowledge and Web Technologies.
-- ⚙ &nbsp; AI Engineer focusing on LLMs, agents and backend integration.
-- 🚀 &nbsp;Exploring the areas of Machine Learning, Data Science, and Deep Learning.
-- 📝 &nbsp;Master's thesis titled **Exploration and Comparison of Transformers for Image Classification**
+```yaml
+role:      AI Engineer @ major Czech bank
+interests: [deep learning, distributed systems, cloud-native backend architecture]
+education: MSc, Knowledge and Web Technologies, Prague University of Economics and Business
+thesis:    Exploration and Comparison of Transformers for Image Classification
+award:     Rector's Award for Student Scientific Publications (ESOP 2025)
+```
 
-<h3>🎓 &nbsp;Exploration and Comparison of Transformers for Image Classification </h3>
-
-- 📜 &nbsp;Paper: **http://dx.doi.org/10.13140/RG.2.2.28393.81769**
-- 📂 &nbsp;Repository: **https://github.com/itsDaiton/masters-thesis**
-
-<h3>📁 &nbsp;Other</h3>
-
-- 💼 &nbsp;Portfolio: **https://davidposlusny.cz/**
-
+[Portfolio](https://davidposlusny.cz/) · [LinkedIn](https://www.linkedin.com/in/david-poslusny/) · [Thesis paper](http://dx.doi.org/10.13140/RG.2.2.28393.81769) · [Thesis code](https://github.com/itsDaiton/masters-thesis)
